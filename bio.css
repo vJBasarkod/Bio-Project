@@ -5,18 +5,19 @@
     box-sizing: border-box;
     }
     body {
-        font-family: 'Arial', sans-serif;
+        font-family: 'Calabri', sans-serif;
         line-height: 1.6;
         padding: 20px;
-        background-color: #f4f4f4;
+        background-color: #b9cef5;
       }
     header {
         text-align: center;
         margin-bottom: 20px;
     }
       .profile-img {
-        width: 150px;
-        height: auto;
+        align-items: start;
+        width: 200px;
+        height: 200px;
       }
       a:hover {
         text-decoration: underline;
